@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Mansour Elashry</h1>
-<h3 align="center">A Data Analytics & Business Intelligence Developer</h3>
+<h3 align="center">A Data analyst & scientist </h3>
 
-- 🌱 I love working with **data to uncover insights that can make a real difference for businesses**
-- 👨‍💻 I’ve gained experience in **gathering and analyzing data, collaborating with teams, and finding solutions to meet business needs**
+- **🌱 I love working with data to uncover insights that can make a real difference for businesses**
+- **👨‍💻 I’ve gained experience in gathering and analyzing data, collaborating with teams, and finding solutions to meet business needs**
 
 - 📫 How to reach me **mansourelashry10@gmail.com**
 
