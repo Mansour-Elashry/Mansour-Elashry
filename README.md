@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mansour Elashry</h1>
 <h3 align="center">A Data analyst & scientist </h3>
 
-- **🌱 I love working with data to uncover insights that can make a real difference for businesses 🌱**
-- **👨‍💻 I've gained experience in gathering, analyzing, and interpreting data, as well as applying machine learning techniques, leveraging cloud solutions in Azure, and developing interactive dashboards to support data-driven decision-making 👨‍💻**
+- **🌱 I love working with data to uncover insights that can make a real difference for businesses.**
+- **👨‍💻 I've gained experience in gathering, analyzing, and interpreting data, as well as applying machine learning techniques, leveraging cloud solutions in Azure, and developing interactive dashboards to support data-driven decision-making.**
 
 - 📫 How to reach me **mansourelashry10@gmail.com**
 
