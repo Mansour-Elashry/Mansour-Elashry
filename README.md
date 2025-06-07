@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Mansour Elashry</h1>
+<h1 align="center">Hi 👋, I'm Mansour Elashri</h1>
 <h3 align="center">A Data Analyst & BI Developer </h3>
 
 - **🌱 I love working with data to uncover insights that can make a real difference for businesses.**
