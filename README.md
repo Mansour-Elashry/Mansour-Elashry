@@ -5,7 +5,7 @@
 - **🌱 I love working with data to uncover insights that can make a real difference for businesses.**
 - **👨‍💻 I've gained experience in gathering, analyzing, and interpreting data, as well as leveraging cloud solutions in Azure, and developing interactive dashboards to support data-driven decision-making.**
 
-- 📫 How to reach me **mansourelashry10@gmail.com**
+- 📫 How to reach me **mansour.elashri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
